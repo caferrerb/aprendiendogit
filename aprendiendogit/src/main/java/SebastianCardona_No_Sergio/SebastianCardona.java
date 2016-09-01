@@ -51,6 +51,10 @@ public void saludarSergio(){
 		
 	}
 	
+	public void saludarBrian(){
+		System.out.println("Hola degenerado gamín");
+	}
+	
 }
 
 
