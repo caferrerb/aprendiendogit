@@ -34,9 +34,6 @@ public void saludarSergio(){
 	}
 	
 	public void saludarMiguel() {
-		System.out.println("HolaMiguel");
-	}
-	public void saludarMiguel() {
 		System.out.println("Hola");
 	}
 	
