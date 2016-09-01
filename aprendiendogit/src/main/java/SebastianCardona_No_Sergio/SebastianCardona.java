@@ -6,15 +6,26 @@ package SebastianCardona_No_Sergio;
 import javax.swing.JOptionPane;
 
 /**
- * No Sergio...
+ * Si Sergio...
  * @author juansebastian
  *
  */
 public class SebastianCardona {
 
+/**
+	 * Constructor...
+	 */
+	public SebastianCardona() {
+		super();
+	}
+
 public void saludarSergio(){
 		System.out.println("WIN SPORTS");
 		}
+		
+			public String SaludarJhohanns(){
+		return "hola";
+	}
 
 	public void saludarAlejandro(){
 		System.out.println("HOLA QUE TAL");
