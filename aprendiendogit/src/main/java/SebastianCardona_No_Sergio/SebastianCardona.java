@@ -12,7 +12,15 @@ import javax.swing.JOptionPane;
  */
 public class SebastianCardona {
 
-	//primer intento
+	public void saludarAlejandro(){
+		System.out.println("HOLA QUE TAL");
+	}
+	
+	public void saludarMiguel() {
+		System.out.println("Hola");
+	}
+	
+	
 	
 	/**
 	 * Metodo para saludar
@@ -24,4 +32,11 @@ public class SebastianCardona {
 				,"Informe",JOptionPane.INFORMATION_MESSAGE);
 	}
 	
+		public void saludarCamilo(){
+		System.out.println("Hola");	
+		
+	}
+	
 }
+
+
