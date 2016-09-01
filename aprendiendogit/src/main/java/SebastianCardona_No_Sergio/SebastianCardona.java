@@ -18,4 +18,7 @@ public class SebastianCardona {
 		System.out.println("Hola degenerado gamín");
 	}
 	
+	public void saludarMiguel() {
+		System.out.println("Hola");
+	}
 }
