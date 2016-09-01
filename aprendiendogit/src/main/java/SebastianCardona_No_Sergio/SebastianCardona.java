@@ -10,10 +10,8 @@ package SebastianCardona_No_Sergio;
  */
 public class SebastianCardona {
 
-
 	public void saludarSergio(){
 		System.out.println("WIN SPORTS");
-
 	}
 	public void saludarAlejandro(){
 		System.out.println("HOLA QUE TAL");
@@ -22,6 +20,13 @@ public class SebastianCardona {
 	
 	public void saludarBrian(){
 		System.out.println("Hola degenerado gamín");
+	}
+	
+	/**
+	 * Constructor...
+	 */
+	public SebastianCardona() {
+		super();
 	}
 	
 	
