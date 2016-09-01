@@ -19,4 +19,19 @@ public class SebastianCardona {
 >>>>>>> branch 'master' of https://github.com/caferrerb/aprendiendogit.git
 	}
 	
+	
+	public void saludarCamilo(){
+		System.out.println("Hola");	
+		
+	}
+	public void saludarMiguel(String a) {
+		System.out.println("Hola migeul que mas");
+	}
+	
+	
+	
+	
+	
 }
+
+
