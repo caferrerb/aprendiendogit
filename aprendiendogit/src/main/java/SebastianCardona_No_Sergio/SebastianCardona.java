@@ -10,6 +10,10 @@ package SebastianCardona_No_Sergio;
  */
 public class SebastianCardona {
 
+	public String SaludarJhohanns(){
+		return "hola";
+	}
+
 	public void saludarSergio(){
 		System.out.println("WIN SPORTS");
 	}
