@@ -14,11 +14,12 @@ public class SebastianCardona {
 		System.out.println("HOLA QUE TAL");
 	}
 	
+	
 	public void saludarCamilo(){
 		System.out.println("Hola");	
 		
 	}
-	public void saludarMiguel() {
+	public void saludarMiguel(String a) {
 		System.out.println("Hola migeul que mas");
 	}
 	
