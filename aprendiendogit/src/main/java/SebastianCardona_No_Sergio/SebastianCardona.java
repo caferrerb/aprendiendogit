@@ -12,4 +12,8 @@ public class SebastianCardona {
 
 	//primer intento
 	
+	public void saludarBrian(){
+		System.out.println("Hola degenerado gamín");
+	}
+	
 }
