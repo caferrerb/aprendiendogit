@@ -12,6 +12,10 @@ import javax.swing.JOptionPane;
  */
 public class SebastianCardona {
 
+public void saludarSergio(){
+		System.out.println("WIN SPORTS");
+		}
+
 	public void saludarAlejandro(){
 		System.out.println("HOLA QUE TAL");
 	}
@@ -19,7 +23,6 @@ public class SebastianCardona {
 	public void saludarMiguel() {
 		System.out.println("Hola");
 	}
-	
 	
 	
 	/**
