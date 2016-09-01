@@ -21,4 +21,7 @@ public class SebastianCardona {
 		super();
 	}
 	
+	public void saludarMiguel() {
+		System.out.println("Hola");
+	}
 }
