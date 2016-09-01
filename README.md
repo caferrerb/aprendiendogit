@@ -1,2 +1,3 @@
 # aprendiendogit
-aprendiendo
+aprendiendo git.
+
