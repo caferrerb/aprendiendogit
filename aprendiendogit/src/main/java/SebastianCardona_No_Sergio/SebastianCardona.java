@@ -10,6 +10,8 @@ package SebastianCardona_No_Sergio;
  */
 public class SebastianCardona {
 
-	//primer intento
+	public String SaludarJhohanns(){
+		return "hola";
+	}
 	
 }
