@@ -12,4 +12,11 @@ public class SebastianCardona {
 
 	//primer intento
 	
+	/**
+	 * Constructor...
+	 */
+	public SebastianCardona() {
+		super();
+	}
+	
 }
