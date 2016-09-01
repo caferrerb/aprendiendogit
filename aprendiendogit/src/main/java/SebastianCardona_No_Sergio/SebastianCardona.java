@@ -10,6 +10,8 @@ package SebastianCardona_No_Sergio;
  */
 public class SebastianCardona {
 
-	//primer intento
+	public void saludarSergio(){
+		System.out.println("WIN SPORTS");
+	}
 	
 }
