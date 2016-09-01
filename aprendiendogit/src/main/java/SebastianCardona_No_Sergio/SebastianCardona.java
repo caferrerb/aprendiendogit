@@ -18,9 +18,7 @@ public class SebastianCardona {
 		System.out.println("Hola");	
 		
 	}
-	public void saludarMiguel() {
-		System.out.println("Hola migeul que mas");
-	}
+
 	
 	
 	
