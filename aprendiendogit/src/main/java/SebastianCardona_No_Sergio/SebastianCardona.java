@@ -12,4 +12,7 @@ public class SebastianCardona {
 
 	//primer intento
 	
+	public void saludarMiguel() {
+		System.out.println("Hola");
+	}
 }
