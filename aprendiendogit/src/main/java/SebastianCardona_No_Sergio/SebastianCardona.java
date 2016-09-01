@@ -3,8 +3,10 @@
  */
 package SebastianCardona_No_Sergio;
 
+import javax.swing.JOptionPane;
+
 /**
- * No Sergio...
+ * Si Sergio...
  * @author juansebastian
  *
  */
@@ -12,41 +14,48 @@ public class SebastianCardona {
 
 
 
-	public String SaludarJhohanns(){
-		return "hola";
-	}
-
-	public void saludarSergio(){
-		System.out.println("WIN SPORTS");
-	}
-	public void saludarAlejandro(){
-		System.out.println("HOLA QUE TAL");
-
-	}
-	
-	public void saludarBrian(){
-		System.out.println("Hola degenerado gamín");
-	}
-	
-	/**
+/**
 	 * Constructor...
 	 */
 	public SebastianCardona() {
 		super();
 	}
+
+public void saludarSergio(){
+		System.out.println("WIN SPORTS");
+		}
+		
+			public String SaludarJhohanns(){
+		return "hola";
+	}
+
+	public void saludarAlejandro(){
+		System.out.println("HOLA QUE TAL");
+	}
+	
+	public void saludarMiguel() {
+		System.out.println("Hola");
+	}
 	
 	
-	public void saludarCamilo(){
+	/**
+	 * Metodo para saludar
+	 * @author Brayan Giraldo
+	 * Correo : giraldo97@outlook.com
+	 */
+	public void saludarGiraldo(){
+		JOptionPane.showMessageDialog(null, "Buen Día"
+				,"Informe",JOptionPane.INFORMATION_MESSAGE);
+	}
+	
+		public void saludarCamilo(){
 		System.out.println("Hola");	
 		
 	}
-	public void saludarMiguel(String a) {
-		System.out.println("Hola migeul que mas");
+	
+	public void saludarBrian(){
+		System.out.println("Hola degenerado gamín");
 	}
-	
-	
-	
-	
 	
 }
 
