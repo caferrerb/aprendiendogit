@@ -10,7 +10,9 @@ package SebastianCardona_No_Sergio;
  */
 public class SebastianCardona {
 
-	//primer intento
+	public void saludarAlejandro(){
+		System.out.println("HOLA QUE TAL");
+	}
 	
 	/**
 	 * Constructor...
