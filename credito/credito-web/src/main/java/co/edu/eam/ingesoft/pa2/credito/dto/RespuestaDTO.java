@@ -9,9 +9,7 @@ public class RespuestaDTO {
 	
 	private String codigo;
 	
-	public RespuestaDTO() {
-		
-	}
+	
 
 	public RespuestaDTO(Object obj) {
 		super();
