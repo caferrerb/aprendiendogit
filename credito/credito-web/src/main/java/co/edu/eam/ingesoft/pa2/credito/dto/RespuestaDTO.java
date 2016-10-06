@@ -9,6 +9,8 @@ public class RespuestaDTO {
 	
 	private String codigo;
 	
+	private int a;
+	
 	
 	public RespuestaDTO() {
 		//nose...
@@ -70,6 +72,9 @@ public class RespuestaDTO {
 		this.codigo = codigo;
 	}
 	
+	public int getA(){
+		return a;
+	}
 	
 	
 	
