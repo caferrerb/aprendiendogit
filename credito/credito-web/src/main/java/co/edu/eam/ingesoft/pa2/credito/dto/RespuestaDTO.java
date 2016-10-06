@@ -9,8 +9,8 @@ public class RespuestaDTO {
 	
 	private String codigo;
 	
-	public RespuestaDTO(String hola) {
-		
+	public RespuestaDTO() {
+		//nose...
 	}
 
 	public RespuestaDTO(Object obj) {
