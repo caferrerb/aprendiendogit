@@ -9,7 +9,7 @@ public class RespuestaDTO {
 	
 	private String codigo;
 	
-	public RespuestaDTO() {
+	public RespuestaDTO(String hola) {
 		
 	}
 
