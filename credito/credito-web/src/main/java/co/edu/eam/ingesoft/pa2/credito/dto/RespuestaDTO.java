@@ -9,9 +9,13 @@ public class RespuestaDTO {
 	
 	private String codigo;
 	
+<<<<<<< HEAD
 	public RespuestaDTO(String hola) {
 		
 	}
+=======
+	
+>>>>>>> branch 'master' of https://github.com/caferrerb/aprendiendogit.git
 
 	public RespuestaDTO(Object obj) {
 		super();
