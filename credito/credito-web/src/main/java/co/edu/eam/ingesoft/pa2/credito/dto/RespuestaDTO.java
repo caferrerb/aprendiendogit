@@ -9,7 +9,9 @@ public class RespuestaDTO {
 	
 	private String codigo;
 	
-	public RespuestaDTO(String a, int b) {
+	
+	public RespuestaDTO() {
+		//nose...
 	}
 
 	public RespuestaDTO(Object obj) {
